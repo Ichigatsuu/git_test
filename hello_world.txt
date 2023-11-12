@@ -1,4 +1,9 @@
 Hello world!
 Przypomnienie :)
 Przypomnienie 2 :P
+<<<<<<< HEAD
 Przypomnienie3 today xd
+=======
+Przypomnienie 3 :PP - Na WSL Windows 10 Laptop ^^
+
+>>>>>>> 9ea91d7014d592d5f80cf56a3789474e5f052cee
