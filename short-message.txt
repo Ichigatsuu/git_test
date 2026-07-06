@@ -1,2 +1,4 @@
 Hello my name is Dawid and currently im learning HTML.
 I want to be Fullstack Developer :)
+
+So hello again, it's been a while, now we have 2026 and im starting to learn Python and maybe Rust later, but for now let's stick with Python :)
